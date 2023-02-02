@@ -1,0 +1,4 @@
+python-wireguard==0.2.2
+ruamel.yaml==0.17.21
+netaddr==0.8.0
+

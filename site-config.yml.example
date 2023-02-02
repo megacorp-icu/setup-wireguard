@@ -1,0 +1,10 @@
+network:
+  wireguard_subnet: 10.10.10.0/24
+  wireguard_port: 51871
+hosts:
+  one.megacorp.icu:
+    public_ipv4: 192.168.122.250
+  two.megacorp.icu:
+    public_ipv4: 192.168.122.28
+  three.megacorp.icu:
+    public_ipv4: 192.168.122.81
